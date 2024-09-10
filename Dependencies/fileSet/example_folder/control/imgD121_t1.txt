@@ -1,0 +1,1 @@
+example file, condition control; time 1; well D12; channel 1
